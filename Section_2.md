@@ -1,4 +1,4 @@
-# What i've learned so far
+# What I've learned so far
 
 ## Dockerfile example
 
